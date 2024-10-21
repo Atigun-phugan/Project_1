@@ -9,12 +9,10 @@
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university.
 
 The SAT has two sections of the test: Evidence-Based Reading and Writing and Math (source). The ACT has 4 sections: English, Mathematics, Reading, and Science, with an additional optional writing section (source). They have different score ranges, which you can read more about on their websites or additional outside sources (a quick Google search will help you understand the scores for each test):
-
-**SAT**
-**ACT**
-
+                                                    **SAT**
+                                                    **ACT**
 # Choose your Data
-     **Choose 3 datasets for analysis.**
+     ** Choose 3 datasets for analysis. **
           sat_2017.csv: 2017 SAT Scores by State
           sat_2018.csv: 2018 SAT Scores by State
           sat_2019.csv: 2019 SAT Scores by State
