@@ -14,7 +14,6 @@ The SAT has two sections of the test: Evidence-Based Reading and Writing and Mat
 **ACT**
 
 # Choose your Data
-
 ## Choose 3 datasets for analysis.
      sat_2017.csv: 2017 SAT Scores by State
      sat_2018.csv: 2018 SAT Scores by State
