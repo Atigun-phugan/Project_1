@@ -14,10 +14,10 @@ The SAT has two sections of the test: Evidence-Based Reading and Writing and Mat
 **ACT**
 
 # Choose your Data
-## Choose 3 datasets for analysis.
-     sat_2017.csv: 2017 SAT Scores by State
-     sat_2018.csv: 2018 SAT Scores by State
-     sat_2019.csv: 2019 SAT Scores by State
+     **Choose 3 datasets for analysis.**
+          sat_2017.csv: 2017 SAT Scores by State
+          sat_2018.csv: 2018 SAT Scores by State
+          sat_2019.csv: 2019 SAT Scores by State
 
 # Outside Research
 I found additional data to support my hypothesis that the composite SAT score negatively impacts the correlation results. Specifically, I found that seven states in the U.S.—Connecticut, Delaware, Idaho, Maine, Michigan, New Hampshire, and Rhode Island—require all students to take the exam. Data from (source1)., (source2),(source3)
