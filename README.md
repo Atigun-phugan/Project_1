@@ -3,7 +3,8 @@
 # Part 1 requires knowledge of basic Python.
 
 ## Problem Statement
-**H1: What is the relationship between SAT scores (total) and participation over the 3 years (2017–2019)? H2: Among the 51 states n the USA, does the requirement for all students to take the SAT affect the scores compared to states where the test is not required?**
+**H1: What is the relationship between SAT scores (total) and participation over the 3 years (2017–2019)? 
+  H2: Among the 51 states n the USA, does the requirement for all students to take the SAT affect the scores compared to states where the test is not required?**
 
 # Background
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university.
